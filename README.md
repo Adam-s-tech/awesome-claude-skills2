@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **6089**
-- Discoverable skills: **150,185**
+- Discoverable skills: **150,164**
 - Healthy repos: **4525** · Truncated: **3** · Unavailable: **1561**
-- Last updated: **2026-09-26 21:42 UTC**
+- Last updated: **2026-09-27 00:00 UTC**
 
 ## Related Lists
 
@@ -416,7 +416,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [ArabianCowboy/minto-executive-communication](https://github.com/ArabianCowboy/minto-executive-communication) | 1 | `main` | `.` | ✅ ok |  |
 | [arasovic/skills](https://github.com/arasovic/skills) | 3 | `main` | `skills` | ✅ ok |  |
 | [arbi-elezi/emperor-time](https://github.com/arbi-elezi/emperor-time) | 19 | `main` | `.` | ✅ ok |  |
-| [arbiterForge/codeArbiter](https://github.com/arbiterForge/codeArbiter) | 172 | `main` | `.` | ✅ ok |  |
+| [arbiterForge/codeArbiter](https://github.com/arbiterForge/codeArbiter) | 166 | `main` | `.` | ✅ ok |  |
 | [arcbaslow/google-ads-agents](https://github.com/arcbaslow/google-ads-agents) | 26 | `master` | `skills` | ✅ ok |  |
 | [arcbaslow/google-analytics-agent](https://github.com/arcbaslow/google-analytics-agent) | 12 | `master` | `skills` | ✅ ok |  |
 | [arcbaslow/meta-ads-agents](https://github.com/arcbaslow/meta-ads-agents) | 8 | `master` | `skills` | ✅ ok |  |
@@ -663,7 +663,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [brittanyslay/web-qa](https://github.com/brittanyslay/web-qa) | 0 | `main` | `.` | ✅ ok |  |
 | [brokenrobot-xyz/agent-skills](https://github.com/brokenrobot-xyz/agent-skills) | 41 | `main` | `.` | ✅ ok |  |
 | [broneq/bdk](https://github.com/broneq/bdk) | 24 | `main` | `skills` | ✅ ok |  |
-| [broomva/skills](https://github.com/broomva/skills) | 106 | `main` | `skills` | ✅ ok |  |
+| [broomva/skills](https://github.com/broomva/skills) | 107 | `main` | `skills` | ✅ ok |  |
 | [BrownFineSecurity/iothackbot](https://github.com/BrownFineSecurity/iothackbot) | 13 | `master` | `.` | ✅ ok |  |
 | [browser-act/skills](https://github.com/browser-act/skills) | 101 | `main` | `solutions` | ✅ ok |  |
 | [brunob54/superpowers-orchestrator](https://github.com/brunob54/superpowers-orchestrator) | 31 | `main` | `skills` | ✅ ok |  |
@@ -1720,7 +1720,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [ikonushok/agent-pack-designer](https://github.com/ikonushok/agent-pack-designer) | 1 | `main` | `.` | ✅ ok |  |
 | [ilandahan/breather](https://github.com/ilandahan/breather) | 1 | `main` | `skills` | ✅ ok |  |
 | [ilia-pluzhnikov/book-distill](https://github.com/ilia-pluzhnikov/book-distill) | 0 | `main` | `.` | ✅ ok |  |
-| [iliaal/whetstone](https://github.com/iliaal/whetstone) | 61 | `master` | `.` | ✅ ok |  |
+| [iliaal/whetstone](https://github.com/iliaal/whetstone) | 62 | `master` | `.` | ✅ ok |  |
 | [ilyautov/humanizer-ru](https://github.com/ilyautov/humanizer-ru) | 1 | `main` | `skills` | ✅ ok |  |
 | [ilyautov/small-business-ru](https://github.com/ilyautov/small-business-ru) | 34 | `main` | `.` | ✅ ok |  |
 | [Iman/agent-driven-options-desk-and-skills](https://github.com/Iman/agent-driven-options-desk-and-skills) | 20 | `main` | `.` | ✅ ok |  |
@@ -1793,7 +1793,6 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jabrena/plinth](https://github.com/jabrena/plinth) | 124 | `main` | `skills` | ✅ ok |  |
 | [JaceProgramming/naver-seo-expert](https://github.com/JaceProgramming/naver-seo-expert) | 0 | `main` | `.` | ✅ ok |  |
 | [jackiectl/research-agent-pitfalls](https://github.com/jackiectl/research-agent-pitfalls) | 1 | `universal-core` | `skills` | ✅ ok |  |
-| [jackneil/claude-jacked](https://github.com/jackneil/claude-jacked) | 34 | `master` | `.` | ✅ ok |  |
 | [jackterror/persuasion-audit-engine](https://github.com/jackterror/persuasion-audit-engine) | 0 | `main` | `.` | ✅ ok |  |
 | [jackterror/script-to-video-production-agent](https://github.com/jackterror/script-to-video-production-agent) | 0 | `main` | `.` | ✅ ok |  |
 | [jackterror/writers-room-story-engine](https://github.com/jackterror/writers-room-story-engine) | 0 | `main` | `.` | ✅ ok |  |
@@ -2929,6 +2928,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [onlygian/G-Forge](https://github.com/onlygian/G-Forge) | 38 | `main` | `skills` | ✅ ok |  |
 | [onsails/skills](https://github.com/onsails/skills) | 3 | `master` | `.` | ✅ ok |  |
 | [ontology-of-everything/SemanticSkills](https://github.com/ontology-of-everything/SemanticSkills) | 16 | `main` | `skills` | ✅ ok |  |
+| [Onur45500/skillpack](https://github.com/Onur45500/skillpack) | 16 | `main` | `.` | ✅ ok |  |
 | [oomol-lab/skills](https://github.com/oomol-lab/skills) | 1,562 | `main` | `.` | ✅ ok |  |
 | [ooooooooooooooooooop/agent-tools](https://github.com/ooooooooooooooooooop/agent-tools) | 22 | `main` | `skills` | ✅ ok |  |
 | [ooooooooooooooooooop/skills](https://github.com/ooooooooooooooooooop/skills) | 23 | `main` | `.` | ✅ ok |  |
@@ -3778,7 +3778,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [srobinson/helioy-plugins](https://github.com/srobinson/helioy-plugins) | 59 | `main` | `.` | ✅ ok |  |
 | [srwbsw/second-agent-skill](https://github.com/srwbsw/second-agent-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [sses79/gen-chart](https://github.com/sses79/gen-chart) | 1 | `main` | `.` | ✅ ok |  |
-| [SSFSKIM/designer](https://github.com/SSFSKIM/designer) | 1 | `main` | `skills` | ✅ ok |  |
+| [SSFSKIM/designer](https://github.com/SSFSKIM/designer) | 2 | `main` | `skills` | ✅ ok |  |
 | [ssheleg/make-skill](https://github.com/ssheleg/make-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [sshin90/pptx-korean-formatting](https://github.com/sshin90/pptx-korean-formatting) | 0 | `master` | `.` | ✅ ok |  |
 | [ssskay/claude-skills](https://github.com/ssskay/claude-skills) | 5 | `main` | `.` | ✅ ok |  |
@@ -5185,6 +5185,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [izam-mohammed/decisionsmith](https://github.com/izam-mohammed/decisionsmith) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [j912835225-prog/whetstone](https://github.com/j912835225-prog/whetstone) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [jacjackai/dsh-control](https://github.com/jacjackai/dsh-control) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
+| [jackneil/claude-jacked](https://github.com/jackneil/claude-jacked) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
 | [jacksonrpp/pbi-skills-claude](https://github.com/jacksonrpp/pbi-skills-claude) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [JadeYingWah/gpt-series-reasoning-style](https://github.com/JadeYingWah/gpt-series-reasoning-style) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [jaenicket/code-webdesign](https://github.com/jaenicket/code-webdesign) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
@@ -5563,7 +5564,6 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [oliveira7015/openclawby-skills](https://github.com/oliveira7015/openclawby-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [OneMoh/html-explainer](https://github.com/OneMoh/html-explainer) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [ontology-of-everything/concept-skills](https://github.com/ontology-of-everything/concept-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Onur45500/skillpack](https://github.com/Onur45500/skillpack) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [ooooooooooooooooooop/personal-ai](https://github.com/ooooooooooooooooooop/personal-ai) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [opascope/skills](https://github.com/opascope/skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [open-coder-ai/context-report](https://github.com/open-coder-ai/context-report) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
