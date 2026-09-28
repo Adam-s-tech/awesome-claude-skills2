@@ -7,7 +7,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 - Enabled source repositories: **6161**
 - Discoverable skills: **150,256**
 - Healthy repos: **4524** · Truncated: **3** · Unavailable: **1634**
-- Last updated: **2026-09-27 21:46 UTC**
+- Last updated: **2026-09-28 00:06 UTC**
 
 ## Related Lists
 
@@ -1093,7 +1093,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [dinglebear-ai/runifi](https://github.com/dinglebear-ai/runifi) | 1 | `main` | `.` | ✅ ok |  |
 | [dinglebear-ai/unraid](https://github.com/dinglebear-ai/unraid) | 2 | `main` | `.` | ✅ ok |  |
 | [dinglebear-ai/unraid-mcp](https://github.com/dinglebear-ai/unraid-mcp) | 2 | `main` | `.` | ✅ ok |  |
-| [dinhanhthi/coding-friend](https://github.com/dinhanhthi/coding-friend) | 85 | `main` | `.` | ✅ ok |  |
+| [dinhanhthi/coding-friend](https://github.com/dinhanhthi/coding-friend) | 88 | `main` | `.` | ✅ ok |  |
 | [discolike/discolike-skills](https://github.com/discolike/discolike-skills) | 4 | `main` | `skills` | ✅ ok |  |
 | [display-design-studio/skills](https://github.com/display-design-studio/skills) | 49 | `main` | `skills` | ✅ ok |  |
 | [display-dev/skill](https://github.com/display-dev/skill) | 5 | `main` | `.` | ✅ ok |  |
@@ -3052,7 +3052,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [PedroMeloOfficial/Youtube-Agent-Matrix](https://github.com/PedroMeloOfficial/Youtube-Agent-Matrix) | 1 | `main` | `skills` | ✅ ok |  |
 | [pedroreisper/resourceful](https://github.com/pedroreisper/resourceful) | 0 | `main` | `.` | ✅ ok |  |
 | [pedrovelasquez9/onbearding](https://github.com/pedrovelasquez9/onbearding) | 1 | `main` | `skills` | ✅ ok |  |
-| [pehcastro/harness](https://github.com/pehcastro/harness) | 1 | `main` | `.` | ✅ ok |  |
+| [pehcastro/harness](https://github.com/pehcastro/harness) | 2 | `main` | `.` | ✅ ok |  |
 | [pencilrebel/roast-my-design-system](https://github.com/pencilrebel/roast-my-design-system) | 2 | `main` | `skills` | ✅ ok |  |
 | [pengqianhan/NZ-life-skills](https://github.com/pengqianhan/NZ-life-skills) | 15 | `main` | `skills` | ✅ ok |  |
 | [peopleworks/SignsofAI](https://github.com/peopleworks/SignsofAI) | 1 | `main` | `.` | ✅ ok |  |
@@ -3062,7 +3062,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [petar-djukic/writing-skills](https://github.com/petar-djukic/writing-skills) | 19 | `main` | `.claude/skills` | ✅ ok |  |
 | [petar-nauka/ai-visibility-skill](https://github.com/petar-nauka/ai-visibility-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [peterzat/zat.env](https://github.com/peterzat/zat.env) | 7 | `main` | `.` | ✅ ok |  |
-| [petmakris/claude-annotate](https://github.com/petmakris/claude-annotate) | 16 | `main` | `.` | ✅ ok |  |
+| [petmakris/claude-annotate](https://github.com/petmakris/claude-annotate) | 17 | `main` | `.` | ✅ ok |  |
 | [pgoell/pgoell-claude-tools](https://github.com/pgoell/pgoell-claude-tools) | 46 | `master` | `.` | ✅ ok |  |
 | [pgundlupetvenkatesh/mdb_api_layer](https://github.com/pgundlupetvenkatesh/mdb_api_layer) | 3 | `main` | `.claude/skills` | ✅ ok |  |
 | [phatnguyen975/performance-test-design](https://github.com/phatnguyen975/performance-test-design) | 0 | `main` | `.` | ✅ ok |  |
@@ -3220,7 +3220,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [rahmanef63/si-coder-agent](https://github.com/rahmanef63/si-coder-agent) | 27 | `main` | `skills` | ✅ ok |  |
 | [RahulDas-dev/skill_builder](https://github.com/RahulDas-dev/skill_builder) | 4 | `main` | `skills` | ✅ ok |  |
 | [raichominev/concilium](https://github.com/raichominev/concilium) | 0 | `main` | `.` | ✅ ok |  |
-| [raiki61/claude-plugins](https://github.com/raiki61/claude-plugins) | 7 | `main` | `.` | ✅ ok |  |
+| [raiki61/claude-plugins](https://github.com/raiki61/claude-plugins) | 2 | `main` | `.` | ✅ ok |  |
 | [rainmanjam/poka-yoke](https://github.com/rainmanjam/poka-yoke) | 20 | `main` | `.` | ✅ ok |  |
 | [Raishin/vanguard-frontier-agentic](https://github.com/Raishin/vanguard-frontier-agentic) | 761 | `master` | `skills` | ✅ ok |  |
 | [rajtik76/pis-cesky](https://github.com/rajtik76/pis-cesky) | 0 | `main` | `.` | ✅ ok |  |
