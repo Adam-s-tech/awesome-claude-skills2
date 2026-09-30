@@ -4,10 +4,10 @@
 
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
-- Enabled source repositories: **6300**
-- Discoverable skills: **150,650**
-- Healthy repos: **4516** · Truncated: **4** · Unavailable: **1780**
-- Last updated: **2026-09-30 19:47 UTC**
+- Enabled source repositories: **6317**
+- Discoverable skills: **150,683**
+- Healthy repos: **4515** · Truncated: **5** · Unavailable: **1797**
+- Last updated: **2026-09-30 23:19 UTC**
 
 ## Related Lists
 
@@ -391,7 +391,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [aomi-labs/skills](https://github.com/aomi-labs/skills) | 8 | `main` | `.claude/skills` | ✅ ok |  |
 | [Ap6pack/outrider-recon](https://github.com/Ap6pack/outrider-recon) | 11 | `main` | `skills` | ✅ ok |  |
 | [APareek89/power-coding](https://github.com/APareek89/power-coding) | 0 | `main` | `.` | ✅ ok |  |
-| [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) | 59 | `main` | `skills` | ✅ ok |  |
+| [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) | 62 | `main` | `skills` | ✅ ok |  |
 | [apexbymanish/claude-ai-agents-ios](https://github.com/apexbymanish/claude-ai-agents-ios) | 11 | `main` | `.claude/skills` | ✅ ok |  |
 | [ApexionSoft/google-pagespeed-skill](https://github.com/ApexionSoft/google-pagespeed-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [apideck-libraries/api-skills](https://github.com/apideck-libraries/api-skills) | 543 | `main` | `.` | ✅ ok |  |
@@ -930,7 +930,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [cyh-skill/field-graph](https://github.com/cyh-skill/field-graph) | 0 | `main` | `.` | ✅ ok |  |
 | [cypggs/fullstack-deploy](https://github.com/cypggs/fullstack-deploy) | 0 | `main` | `.` | ✅ ok |  |
 | [CyrilLeMat/temper-skills](https://github.com/CyrilLeMat/temper-skills) | 1 | `main` | `.claude/skills` | ✅ ok |  |
-| [Czarnak/totally-integrated-claude](https://github.com/Czarnak/totally-integrated-claude) | 19 | `main` | `skills` | ✅ ok |  |
+| [Czarnak/totally-integrated-claude](https://github.com/Czarnak/totally-integrated-claude) | 18 | `main` | `skills` | ✅ ok |  |
 | [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) | 15 | `main` | `.` | ✅ ok |  |
 | [d08m/skillfile](https://github.com/d08m/skillfile) | 3 | `main` | `.` | ✅ ok |  |
 | [d0hx4n2503/Agent-Skills](https://github.com/d0hx4n2503/Agent-Skills) | 14 | `main` | `skills` | ✅ ok |  |
@@ -999,12 +999,12 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [dawson54068/zeabur-refugee](https://github.com/dawson54068/zeabur-refugee) | 0 | `main` | `.` | ✅ ok |  |
 | [daxaur/hueristic](https://github.com/daxaur/hueristic) | 0 | `main` | `.` | ✅ ok |  |
 | [daxueren666/zuzufang](https://github.com/daxueren666/zuzufang) | 0 | `main` | `.` | ✅ ok |  |
-| [dayfinggg/claude-code-codex-skills](https://github.com/dayfinggg/claude-code-codex-skills) | 14 | `main` | `.` | ✅ ok |  |
+| [dayfinggg/claude-code-codex-skills](https://github.com/dayfinggg/claude-code-codex-skills) | 15 | `main` | `.` | ✅ ok |  |
 | [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) | 114 | `main` | `.` | ✅ ok |  |
 | [dayvisonassis/sdd-skills](https://github.com/dayvisonassis/sdd-skills) | 22 | `main` | `skills` | ✅ ok |  |
 | [dbaggott/claude-plugins](https://github.com/dbaggott/claude-plugins) | 8 | `main` | `.` | ✅ ok |  |
 | [dbbz/C-K-studio](https://github.com/dbbz/C-K-studio) | 9 | `main` | `skills` | ✅ ok |  |
-| [dbc-oduffy/coordinator-claude](https://github.com/dbc-oduffy/coordinator-claude) | 41 | `main` | `skills` | ✅ ok |  |
+| [dbc-oduffy/coordinator-claude](https://github.com/dbc-oduffy/coordinator-claude) | 42 | `main` | `skills` | ✅ ok |  |
 | [dbhan08/sd-coach](https://github.com/dbhan08/sd-coach) | 0 | `main` | `.` | ✅ ok |  |
 | [dbhq-uk/vela-skill](https://github.com/dbhq-uk/vela-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [dbtlr/atlas-skills](https://github.com/dbtlr/atlas-skills) | 6 | `main` | `skills` | ✅ ok |  |
@@ -2024,8 +2024,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jyh4358/jay-plugin](https://github.com/jyh4358/jay-plugin) | 4 | `main` | `skills` | ✅ ok |  |
 | [jzills/Claude-Marketplace](https://github.com/jzills/Claude-Marketplace) | 19 | `main` | `.` | ✅ ok |  |
 | [JZKK720/cubecloud-skills-bundle-kit](https://github.com/JZKK720/cubecloud-skills-bundle-kit) | 52 | `main` | `.` | ✅ ok |  |
-| [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 168 | `main` | `.` | ✅ ok |  |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 168 | `main` | `skills` | ✅ ok |  |
+| [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 181 | `main` | `.` | ✅ ok |  |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 181 | `main` | `skills` | ✅ ok |  |
 | [k-vaca/prompt-engineering-skill](https://github.com/k-vaca/prompt-engineering-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [kabirnarang39/skillci](https://github.com/kabirnarang39/skillci) | 5 | `main` | `.` | ✅ ok |  |
 | [kadaba/claude-bridge](https://github.com/kadaba/claude-bridge) | 2 | `main` | `.` | ✅ ok |  |
@@ -2601,7 +2601,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [mightyhuman101/seedance2-skill](https://github.com/mightyhuman101/seedance2-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [miguel-herrero-systems/hrevn-surface-anthropic](https://github.com/miguel-herrero-systems/hrevn-surface-anthropic) | 3 | `main` | `.claude/skills` | ✅ ok |  |
 | [Mikacr1138/claude-bug-bounty](https://github.com/Mikacr1138/claude-bug-bounty) | 7 | `main` | `skills` | ✅ ok |  |
-| [mikaeltorni/programming_prompts](https://github.com/mikaeltorni/programming_prompts) | 21 | `master` | `.` | ✅ ok |  |
+| [mikaeltorni/programming_prompts](https://github.com/mikaeltorni/programming_prompts) | 22 | `master` | `.` | ✅ ok |  |
 | [mikeprasad/aria-knowledge](https://github.com/mikeprasad/aria-knowledge) | 149 | `main` | `.` | ✅ ok |  |
 | [mikestankavich/claude-ship-workflow](https://github.com/mikestankavich/claude-ship-workflow) | 5 | `main` | `skills` | ✅ ok |  |
 | [Mikhail-Za/Goalkeeper-Claude-skill](https://github.com/Mikhail-Za/Goalkeeper-Claude-skill) | 0 | `main` | `.` | ✅ ok |  |
@@ -3049,7 +3049,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [pencilrebel/roast-my-design-system](https://github.com/pencilrebel/roast-my-design-system) | 2 | `main` | `skills` | ✅ ok |  |
 | [pengqianhan/NZ-life-skills](https://github.com/pengqianhan/NZ-life-skills) | 15 | `main` | `skills` | ✅ ok |  |
 | [peopleworks/SignsofAI](https://github.com/peopleworks/SignsofAI) | 1 | `main` | `.` | ✅ ok |  |
-| [PerIPan/music-workflow-skills](https://github.com/PerIPan/music-workflow-skills) | 5 | `main` | `.` | ✅ ok |  |
+| [PerIPan/music-workflow-skills](https://github.com/PerIPan/music-workflow-skills) | 6 | `main` | `.` | ✅ ok |  |
 | [perocar8967/super-geo-agent-readiness](https://github.com/perocar8967/super-geo-agent-readiness) | 1 | `main` | `.` | ✅ ok |  |
 | [pestalytix/innovate-or-die](https://github.com/pestalytix/innovate-or-die) | 5 | `main` | `.` | ✅ ok |  |
 | [petar-djukic/writing-skills](https://github.com/petar-djukic/writing-skills) | 19 | `main` | `.claude/skills` | ✅ ok |  |
@@ -3199,7 +3199,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [qxbyte/pluginhub](https://github.com/qxbyte/pluginhub) | 16 | `main` | `.` | ✅ ok |  |
 | [r-bart/devtronic-plugin](https://github.com/r-bart/devtronic-plugin) | 35 | `main` | `.` | ✅ ok |  |
 | [R2h1/my-book-skills](https://github.com/R2h1/my-book-skills) | 107 | `main` | `.` | ✅ ok |  |
-| [racecraft-lab/racecraft-plugins-public](https://github.com/racecraft-lab/racecraft-plugins-public) | 82 | `main` | `.` | ✅ ok |  |
+| [racecraft-lab/racecraft-plugins-public](https://github.com/racecraft-lab/racecraft-plugins-public) | 76 | `main` | `.` | ✅ ok |  |
 | [radkode/underwrite](https://github.com/radkode/underwrite) | 1 | `main` | `skills` | ✅ ok |  |
 | [radra23/otel-as-code-plugin](https://github.com/radra23/otel-as-code-plugin) | 17 | `main` | `.` | ✅ ok |  |
 | [raelli/octowiz](https://github.com/raelli/octowiz) | 3 | `main` | `skills` | ✅ ok |  |
@@ -3513,8 +3513,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Sequenzy/skills](https://github.com/Sequenzy/skills) | 15 | `main` | `skills` | ✅ ok |  |
 | [serbanghita/claude-code-plan-critique](https://github.com/serbanghita/claude-code-plan-critique) | 15 | `main` | `.` | ✅ ok |  |
 | [serbanghita/plan-critique-skills](https://github.com/serbanghita/plan-critique-skills) | 15 | `main` | `.` | ✅ ok |  |
-| [serejaris/personal-corp-os](https://github.com/serejaris/personal-corp-os) | 35 | `main` | `skills` | ✅ ok |  |
-| [serejaris/personal-corp-skills](https://github.com/serejaris/personal-corp-skills) | 35 | `main` | `skills` | ✅ ok |  |
+| [serejaris/personal-corp-os](https://github.com/serejaris/personal-corp-os) | 36 | `main` | `skills` | ✅ ok |  |
+| [serejaris/personal-corp-skills](https://github.com/serejaris/personal-corp-skills) | 36 | `main` | `skills` | ✅ ok |  |
 | [Serennity007/awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills) | 225 | `main` | `skills` | ✅ ok |  |
 | [sergebulaev/facebook-skills](https://github.com/sergebulaev/facebook-skills) | 8 | `main` | `skills` | ✅ ok |  |
 | [sergebulaev/instagram-skills](https://github.com/sergebulaev/instagram-skills) | 9 | `main` | `skills` | ✅ ok |  |
@@ -3718,7 +3718,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [soheilmomeniii/positioning-products](https://github.com/soheilmomeniii/positioning-products) | 1 | `main` | `.` | ✅ ok |  |
 | [soheilmomeniii/positioning-with-ekram](https://github.com/soheilmomeniii/positioning-with-ekram) | 1 | `main` | `.` | ✅ ok |  |
 | [solanabr/auditor-skill](https://github.com/solanabr/auditor-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [solanabr/solana-ai-kit](https://github.com/solanabr/solana-ai-kit) | 4 | `main` | `.claude/skills` | ✅ ok |  |
+| [solanabr/solana-ai-kit](https://github.com/solanabr/solana-ai-kit) | 5 | `main` | `.claude/skills` | ✅ ok |  |
 | [solidx86/intraday-trade](https://github.com/solidx86/intraday-trade) | 3 | `main` | `.` | ✅ ok |  |
 | [SoliEstre/idd](https://github.com/SoliEstre/idd) | 1 | `main` | `skills` | ✅ ok |  |
 | [SoliEstre/twdd](https://github.com/SoliEstre/twdd) | 1 | `main` | `skills` | ✅ ok |  |
@@ -3769,7 +3769,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [srobinson/helioy-plugins](https://github.com/srobinson/helioy-plugins) | 59 | `main` | `.` | ✅ ok |  |
 | [srwbsw/second-agent-skill](https://github.com/srwbsw/second-agent-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [sses79/gen-chart](https://github.com/sses79/gen-chart) | 1 | `main` | `.` | ✅ ok |  |
-| [SSFSKIM/designer](https://github.com/SSFSKIM/designer) | 2 | `main` | `skills` | ✅ ok |  |
+| [SSFSKIM/designer](https://github.com/SSFSKIM/designer) | ≥1 | `main` | `skills` | ⚠️ truncated | tree truncated; count is lower bound |
 | [ssheleg/make-skill](https://github.com/ssheleg/make-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [sshin90/pptx-korean-formatting](https://github.com/sshin90/pptx-korean-formatting) | 0 | `master` | `.` | ✅ ok |  |
 | [ssskay/claude-skills](https://github.com/ssskay/claude-skills) | 5 | `main` | `.` | ✅ ok |  |
@@ -3804,7 +3804,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Storybloq/storybloq](https://github.com/Storybloq/storybloq) | 2 | `main` | `.` | ✅ ok |  |
 | [stotihv/skills](https://github.com/stotihv/skills) | 10 | `main` | `.` | ✅ ok |  |
 | [strelov1/freehire-cli](https://github.com/strelov1/freehire-cli) | 6 | `main` | `skills` | ✅ ok |  |
-| [Studio-Moser/skills-n-stuff](https://github.com/Studio-Moser/skills-n-stuff) | 21 | `main` | `.` | ✅ ok |  |
+| [Studio-Moser/skills-n-stuff](https://github.com/Studio-Moser/skills-n-stuff) | 25 | `main` | `.` | ✅ ok |  |
 | [studiomeyer-io/studiomeyer-marketplace](https://github.com/studiomeyer-io/studiomeyer-marketplace) | 5 | `main` | `.` | ✅ ok |  |
 | [stuinfla/ruvnet-brain](https://github.com/stuinfla/ruvnet-brain) | 10 | `main` | `.` | ✅ ok |  |
 | [StuMason/edator](https://github.com/StuMason/edator) | 1 | `main` | `skills` | ✅ ok |  |
@@ -4219,7 +4219,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [w932635477-bit/validate-idea](https://github.com/w932635477-bit/validate-idea) | 0 | `main` | `.` | ✅ ok |  |
 | [waazy-w/claude-phantom](https://github.com/waazy-w/claude-phantom) | 1 | `main` | `.` | ✅ ok |  |
 | [waelouf/cc-powerup-azure-architect](https://github.com/waelouf/cc-powerup-azure-architect) | 1 | `main` | `skills` | ✅ ok |  |
-| [wagneripjr/skills](https://github.com/wagneripjr/skills) | 24 | `master` | `.` | ✅ ok |  |
+| [wagneripjr/skills](https://github.com/wagneripjr/skills) | 25 | `master` | `.` | ✅ ok |  |
 | [waittim/MemoryCustodian](https://github.com/waittim/MemoryCustodian) | 1 | `main` | `skills` | ✅ ok |  |
 | [wallmage/repo-scout](https://github.com/wallmage/repo-scout) | 1 | `main` | `.` | ✅ ok |  |
 | [wallmage/skill-scout](https://github.com/wallmage/skill-scout) | 1 | `main` | `.` | ✅ ok |  |
@@ -4825,6 +4825,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [CB-Systemer/realequity-plugins-shared](https://github.com/CB-Systemer/realequity-plugins-shared) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [ccediland/brand-system-skills](https://github.com/ccediland/brand-system-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [cdmx-in/ui-review](https://github.com/cdmx-in/ui-review) | 0 | `master` | `skills` | ❌ missing | HTTP 404 |
+| [CGWebDev2003/cg-web-skills](https://github.com/CGWebDev2003/cg-web-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [chacesclaw/pdf-to-markdown](https://github.com/chacesclaw/pdf-to-markdown) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [chacheum/chageun](https://github.com/chacheum/chageun) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [chad-nethery/karaoke-maker](https://github.com/chad-nethery/karaoke-maker) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
@@ -4990,6 +4991,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [dsatpm/factory-skills](https://github.com/dsatpm/factory-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [dseloustev/artel](https://github.com/dseloustev/artel) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [dsp-dr/guile-skills](https://github.com/dsp-dr/guile-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
+| [dubbl-a/house-rules](https://github.com/dubbl-a/house-rules) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [ducdg88/ducpt-skills](https://github.com/ducdg88/ducpt-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [dversoza/claude-skills](https://github.com/dversoza/claude-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [dylanbr/nvim-agent-skill](https://github.com/dylanbr/nvim-agent-skill) | 0 | `master` | `skills` | ⛔ forbidden | HTTP 403 |
@@ -4998,6 +5000,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [eatmoreduck/boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
 | [Ebi-lock/work-regulations-check](https://github.com/Ebi-lock/work-regulations-check) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [ebziw/repo-medic](https://github.com/ebziw/repo-medic) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
+| [ecomyseo/prestashop_skills](https://github.com/ecomyseo/prestashop_skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [Ed3Design/ed3design-skill-bundles](https://github.com/Ed3Design/ed3design-skill-bundles) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [edgeverdict/edgeverdict-make-me-money-trading](https://github.com/edgeverdict/edgeverdict-make-me-money-trading) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [eduair94/cambio-uruguay](https://github.com/eduair94/cambio-uruguay) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
@@ -5028,6 +5031,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [EthanY33/atelier](https://github.com/EthanY33/atelier) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [eugene-jet/linkedin-profile-scan](https://github.com/eugene-jet/linkedin-profile-scan) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [evisoft/scio.md](https://github.com/evisoft/scio.md) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
+| [evnm/claude-skills](https://github.com/evnm/claude-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [exasyncai/claude-plugins](https://github.com/exasyncai/claude-plugins) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [Exotica0122/ae-video-studio](https://github.com/Exotica0122/ae-video-studio) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [F-e-u-e-r/skills](https://github.com/F-e-u-e-r/skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
@@ -5096,6 +5100,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [gal-a/qikly](https://github.com/gal-a/qikly) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [gamma2653/GammaPluginTk](https://github.com/gamma2653/GammaPluginTk) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [garvit-joshi/jskim](https://github.com/garvit-joshi/jskim) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
+| [gaurvedant25/stock-history](https://github.com/gaurvedant25/stock-history) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [gavincao6313-jpg/shijian-tuiyan](https://github.com/gavincao6313-jpg/shijian-tuiyan) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [gbechtold/sprich-skill](https://github.com/gbechtold/sprich-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [gbi-solutions-ltd/keel](https://github.com/gbi-solutions-ltd/keel) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
@@ -5166,6 +5171,13 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [hermes-labs-ai/lintlang](https://github.com/hermes-labs-ai/lintlang) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [hermes-labs-ai/quick-gate-js](https://github.com/hermes-labs-ai/quick-gate-js) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [hermes-labs-ai/quick-gate-python](https://github.com/hermes-labs-ai/quick-gate-python) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
+| [HermeticOrmus/claude-code-game-development](https://github.com/HermeticOrmus/claude-code-game-development) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
+| [HermeticOrmus/claude-code-guide](https://github.com/HermeticOrmus/claude-code-guide) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
+| [HermeticOrmus/design-mastery-claude-code](https://github.com/HermeticOrmus/design-mastery-claude-code) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
+| [HermeticOrmus/LibreEmbed-Claude-Code](https://github.com/HermeticOrmus/LibreEmbed-Claude-Code) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
+| [HermeticOrmus/LibreGEO-Claude-Code](https://github.com/HermeticOrmus/LibreGEO-Claude-Code) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
+| [HermeticOrmus/LibreSecOps-Claude-Code](https://github.com/HermeticOrmus/LibreSecOps-Claude-Code) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
+| [HermeticOrmus/LibreUIUX-Claude-Code](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [heronbo111/HeronBo-AIGC-Prompt](https://github.com/heronbo111/HeronBo-AIGC-Prompt) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [hex/claude-image-generation](https://github.com/hex/claude-image-generation) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [heyimjames/ultrapolish](https://github.com/heyimjames/ultrapolish) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
@@ -5399,9 +5411,11 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [kitao/pyxel-skill](https://github.com/kitao/pyxel-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [kitfunso/hippo-memory](https://github.com/kitfunso/hippo-memory) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
 | [kjagsadvisors/jev-bookkeeper](https://github.com/kjagsadvisors/jev-bookkeeper) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
+| [kjgarza/marketplace-claude](https://github.com/kjgarza/marketplace-claude) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [klsoen/opus-js-animations](https://github.com/klsoen/opus-js-animations) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [kmgcc/iOS-Trace](https://github.com/kmgcc/iOS-Trace) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [kmgcc/macOS-Trace](https://github.com/kmgcc/macOS-Trace) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
+| [kodaas/agent-bridge](https://github.com/kodaas/agent-bridge) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [koi-lee/ai-id-photo-studio](https://github.com/koi-lee/ai-id-photo-studio) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [kolezka/self-improvement-loop](https://github.com/kolezka/self-improvement-loop) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [konglong87/shenbi-maliang](https://github.com/konglong87/shenbi-maliang) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
@@ -5548,6 +5562,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [MauricioQuezadaHaintech/karvey](https://github.com/MauricioQuezadaHaintech/karvey) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [mauriciovieira/groundwork](https://github.com/mauriciovieira/groundwork) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [MAX-786/claude-3d-harness](https://github.com/MAX-786/claude-3d-harness) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
+| [Maxbase91/procurement-skills](https://github.com/Maxbase91/procurement-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [MaxSchoon/rgs-skill](https://github.com/MaxSchoon/rgs-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [mbarlow/samdin](https://github.com/mbarlow/samdin) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [mbfinotti/advertising-skills](https://github.com/mbfinotti/advertising-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
@@ -5689,6 +5704,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [O6lvl4/onomly](https://github.com/O6lvl4/onomly) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [oberon-systems/enggraph](https://github.com/oberon-systems/enggraph) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [oddurs/subway-seat](https://github.com/oddurs/subway-seat) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
+| [ogxo-io/plugins](https://github.com/ogxo-io/plugins) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [oliveira7015/openclawby-skills](https://github.com/oliveira7015/openclawby-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [OneMoh/html-explainer](https://github.com/OneMoh/html-explainer) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [OnePathToFreedom/n8n-publish-check](https://github.com/OnePathToFreedom/n8n-publish-check) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
@@ -5839,6 +5855,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [rioX432/ai-dev-templates](https://github.com/rioX432/ai-dev-templates) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [riseshinee/superclaude-springboot](https://github.com/riseshinee/superclaude-springboot) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [Riskbreaker2077/skill-preguntas-saber-11](https://github.com/Riskbreaker2077/skill-preguntas-saber-11) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
+| [risukisu/marketing-skills](https://github.com/risukisu/marketing-skills) | 0 | `master` | `skills` | ⛔ forbidden | HTTP 403 |
 | [Rivendell-investment/edgepilot-live-claude](https://github.com/Rivendell-investment/edgepilot-live-claude) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [rizonetech/claude-plugins](https://github.com/rizonetech/claude-plugins) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [Rjxshr1/idea-to-print](https://github.com/Rjxshr1/idea-to-print) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
