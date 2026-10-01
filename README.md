@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **6317**
-- Discoverable skills: **150,683**
+- Discoverable skills: **150,689**
 - Healthy repos: **4515** · Truncated: **5** · Unavailable: **1797**
-- Last updated: **2026-09-30 23:19 UTC**
+- Last updated: **2026-10-01 02:45 UTC**
 
 ## Related Lists
 
@@ -464,7 +464,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Atiqul-Islam/genesis](https://github.com/Atiqul-Islam/genesis) | 39 | `main` | `skills` | ✅ ok |  |
 | [atlas-doc/atlas-flight-booking-skill](https://github.com/atlas-doc/atlas-flight-booking-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [AtlasCloudAI/awesome-seedance-2.5-prompts-skills](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) | 2 | `main` | `skills` | ✅ ok |  |
-| [atlassian/forge-skills](https://github.com/atlassian/forge-skills) | 6 | `main` | `skills` | ✅ ok |  |
+| [atlassian/forge-skills](https://github.com/atlassian/forge-skills) | 7 | `main` | `skills` | ✅ ok |  |
 | [atman-33/workhub](https://github.com/atman-33/workhub) | 101 | `main` | `.` | ✅ ok |  |
 | [atretyak1985/swarmery](https://github.com/atretyak1985/swarmery) | 75 | `main` | `.` | ✅ ok |  |
 | [attac-t/the-foundry](https://github.com/attac-t/the-foundry) | 139 | `main` | `.` | ✅ ok |  |
@@ -660,7 +660,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [brittanyslay/web-qa](https://github.com/brittanyslay/web-qa) | 0 | `main` | `.` | ✅ ok |  |
 | [brokenrobot-xyz/agent-skills](https://github.com/brokenrobot-xyz/agent-skills) | 41 | `main` | `.` | ✅ ok |  |
 | [broneq/bdk](https://github.com/broneq/bdk) | 24 | `main` | `skills` | ✅ ok |  |
-| [broomva/skills](https://github.com/broomva/skills) | 109 | `main` | `skills` | ✅ ok |  |
+| [broomva/skills](https://github.com/broomva/skills) | 110 | `main` | `skills` | ✅ ok |  |
 | [BrownFineSecurity/iothackbot](https://github.com/BrownFineSecurity/iothackbot) | 13 | `master` | `.` | ✅ ok |  |
 | [browser-act/skills](https://github.com/browser-act/skills) | 101 | `main` | `solutions` | ✅ ok |  |
 | [brunob54/superpowers-orchestrator](https://github.com/brunob54/superpowers-orchestrator) | 31 | `main` | `skills` | ✅ ok |  |
@@ -791,8 +791,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [chris-peterson/tack](https://github.com/chris-peterson/tack) | 3 | `main` | `skills` | ✅ ok |  |
 | [chrisdothtml/ai-job-finder](https://github.com/chrisdothtml/ai-job-finder) | 3 | `main` | `.claude/skills` | ✅ ok |  |
 | [chrislacey89/skills](https://github.com/chrislacey89/skills) | 33 | `prod` | `.` | ✅ ok |  |
-| [chrismccoy/forge](https://github.com/chrismccoy/forge) | 69 | `master` | `.` | ✅ ok |  |
-| [chrismccoy/skills](https://github.com/chrismccoy/skills) | 69 | `master` | `.` | ✅ ok |  |
+| [chrismccoy/forge](https://github.com/chrismccoy/forge) | 71 | `master` | `.` | ✅ ok |  |
+| [chrismccoy/skills](https://github.com/chrismccoy/skills) | 71 | `master` | `.` | ✅ ok |  |
 | [ChrisPachulski/evergreen](https://github.com/ChrisPachulski/evergreen) | 1 | `main` | `skills` | ✅ ok |  |
 | [ChrisThoma/de-ai-text](https://github.com/ChrisThoma/de-ai-text) | 0 | `main` | `.` | ✅ ok |  |
 | [christiangalsterer/documentation-plugin](https://github.com/christiangalsterer/documentation-plugin) | 2 | `main` | `skills` | ✅ ok |  |
